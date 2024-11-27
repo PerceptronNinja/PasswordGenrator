@@ -77,6 +77,7 @@ PasswordGenerator/
 ---
 
 ## Screenshots
+<img width="1470" alt="387665800-47e0f72c-32b1-4ae5-a408-52bc848705c1" src="https://github.com/user-attachments/assets/8904f81d-01f0-40a1-8f05-93ce208f7d97">
 
 ### Home Page
 ![Password Generator UI](https://via.placeholder.com/800x400?text=Password+Generator+UI)
@@ -101,7 +102,3 @@ Contributions are welcome! Feel free to submit a pull request or open an issue.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-# Password-Generator
-# PasswordGenrator
-# PasswordGenrator
-# PasswordGenrator
